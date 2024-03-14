@@ -4,7 +4,7 @@ import logo from "../images/logo.svg"
 export default function Footer() {
   return (
     <>
-        <div class="bg-[#23272a]">
+      <div class="bg-[#23272a]">
         <div class="container text-[#5865f2] max-w-[1200px] mx-auto pt-24 flex flex-col gap-10 pb-10">
           <div class="flex xl:gap-[100px] gap-[40px] flex-col md:flex-row px-5">
             <div class="flex flex-col gap-[24px] w-[100%] md:w-[50%] xl:w-[20%]">
